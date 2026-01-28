@@ -12,4 +12,4 @@ Prevented people from joining the server with old versions of the modpack
 Prevented people from downloading updates or adding new mods manually
 Fixed Extra Forgified Fabric API
 Removed Disabled Mods
-
+Fixed Extra Parcool
