@@ -13,3 +13,5 @@ Prevented people from downloading updates or adding new mods manually
 Fixed Extra Forgified Fabric API
 Removed Disabled Mods
 Fixed Extra Parcool
+
+Update 5.2.1 released at 9:20PM 28/1/26 GMT+7 (Thailand Time)
