@@ -8,3 +8,4 @@ Removed Bomb Mod
 Added doors closing and doors opening announcement
 Added Modpack Updates Warning
 Added Modpack Changelog
+Prevented people from joining the server with old versions of the modpack
