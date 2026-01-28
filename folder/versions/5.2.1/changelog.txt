@@ -1,4 +1,4 @@
-Removed TNT Mod
+Removed Lucky TNT
 Removed Create: New Age
 Updated JR E235 Series
 Updated Resourcepack Config
@@ -10,4 +10,5 @@ Added Modpack Updates Warning
 Added Modpack Changelog
 Prevented people from joining the server with old versions of the modpack
 Prevented people from downloading updates or adding new mods manually
+
 
