@@ -10,7 +10,17 @@
                 "generic": "https://drive.google.com/drive/folders/1lrmqSYDrrOk6bsGR7b1kMuQ5uJ8XcoFN?usp=drive_link"
             }
         }
+    },
+     {
+        "id": "5.3.0",
+        "releasedAt": 1769679000000,
+        "promotions": {
+            "downloads": {
+                "generic": "https://drive.google.com/drive/folders/1lrmqSYDrrOk6bsGR7b1kMuQ5uJ8XcoFN?usp=drive_link"
+            }
+        }
     }
+
   ]
 }
 
