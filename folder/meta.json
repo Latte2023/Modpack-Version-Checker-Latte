@@ -22,7 +22,7 @@
     },
     {
       "id": "6.0.0",
-      "releasedAt":  1770343200000,
+      "releasedAt":  1770297600000,
       "promotions": {
         "downloads": {
           "generic": "https://drive.google.com/drive/folders/1lrmqSYDrrOk6bsGR7b1kMuQ5uJ8XcoFN?usp=drive_link"
@@ -31,3 +31,4 @@
     }
   ]
 }
+
