@@ -28,7 +28,17 @@
           "generic": "https://drive.google.com/drive/folders/1lrmqSYDrrOk6bsGR7b1kMuQ5uJ8XcoFN?usp=drive_link"
         }
       }
+    },
+    {
+      "id": "6.0.1",
+      "releasedAt":  1770987600000,
+      "promotions": {
+        "downloads": {
+          "generic": "https://drive.google.com/drive/folders/1lrmqSYDrrOk6bsGR7b1kMuQ5uJ8XcoFN?usp=drive_link"
+        }
+      }
     }
   ]
 }
+
 
