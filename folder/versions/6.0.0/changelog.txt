@@ -5,3 +5,5 @@ Added Connected Glass
 Added Create: The Factory Must Grow
 Added Create: Connected
 Added Create: Radars
+
+Update 6.0.0 released at 8:20PM 5/2/26 GMT+7 (Thailand Time)
