@@ -1,3 +1,4 @@
 Removed Backpacked
 Added Sophisticated Core
 Added Sophisticated Backpack
+Added Dynmap
