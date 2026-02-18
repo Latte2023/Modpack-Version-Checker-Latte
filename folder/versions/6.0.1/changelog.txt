@@ -1,7 +1,0 @@
-Removed Backpacked
-Added Sophisticated Core
-Added Sophisticated Backpack
-Updated Tianjin Metro
-Open Port for Dynmap
-Fixed Extra Sinytra Connector (Again)
-Added ClickSigns
