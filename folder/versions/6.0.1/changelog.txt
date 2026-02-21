@@ -6,3 +6,4 @@ Open Port for Dynmap
 Fixed Extra Sinytra Connector (Again)
 Added ClickSigns
 Added UK LED PIDS
+Updated World PIDS Pack
