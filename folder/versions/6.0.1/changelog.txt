@@ -8,3 +8,4 @@ Added ClickSigns
 Added UK LED PIDS
 Updated World PIDS Pack
 Removed Many Ideas Core
+Removed Many Ideas Doors
