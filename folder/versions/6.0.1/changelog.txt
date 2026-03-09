@@ -3,7 +3,6 @@ Added Sophisticated Core
 Added Sophisticated Backpack
 Updated Tianjin Metro
 Fixed Extra Sinytra Connector (Again)
-Added ClickSigns
 Added UK LED PIDS
 Updated World PIDS Pack
 Removed Many Ideas Core
