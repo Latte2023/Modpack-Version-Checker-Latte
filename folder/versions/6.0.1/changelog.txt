@@ -1,5 +1,4 @@
 Removed Backpacked
-Added Sophisticated Core
 Updated Tianjin Metro
 Fixed Extra Sinytra Connector (Again)
 Added UK LED PIDS
@@ -10,4 +9,4 @@ Updated MSD
 Added Sophisticated Backpacks Create Integration
 Updated Enhanced Celestials
 Added Ash Vehicles
-.
+
