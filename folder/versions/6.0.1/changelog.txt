@@ -1,6 +1,5 @@
 Removed Backpacked
 Added Sophisticated Core
-Added Sophisticated Backpack
 Updated Tianjin Metro
 Fixed Extra Sinytra Connector (Again)
 Added UK LED PIDS
