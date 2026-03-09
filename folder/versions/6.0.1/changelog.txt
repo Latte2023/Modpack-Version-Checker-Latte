@@ -6,7 +6,6 @@ Updated World PIDS Pack
 Removed Many Ideas Core
 Removed Many Ideas Doors
 Updated MSD
-Added Sophisticated Backpacks Create Integration
 Updated Enhanced Celestials
 Added Ash Vehicles
 
