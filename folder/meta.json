@@ -39,15 +39,6 @@
       }
     },
     {
-      "id": "6.0.2",
-      "releasedAt":  1773734400000,
-      "promotions": {
-        "downloads": {
-          "generic": "https://drive.google.com/drive/folders/1lrmqSYDrrOk6bsGR7b1kMuQ5uJ8XcoFN?usp=drive_link"
-        }
-      }
-    },
-    {
       "id": "6.1.0",
       "releasedAt":  1775653200000,
       "promotions": {
