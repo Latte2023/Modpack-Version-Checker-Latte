@@ -21,6 +21,15 @@
       }
     },
     {
+      "id": "1.0.2",
+      "releasedAt": 987654321098765,
+      "promotions": {
+        "downloads": {
+          "generic": "https://drive.google.com/drive/folders/1lrmqSYDrrOk6bsGR7b1kMuQ5uJ8XcoFN?usp=drive_link"
+        }
+      }
+    },
+    {
       "id": "1.1.0",
       "releasedAt":  987654321098765,
       "promotions": {
