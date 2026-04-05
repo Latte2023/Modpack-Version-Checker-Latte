@@ -4,3 +4,5 @@
 > Added I am music player renewed
 > Added Additional Placements
 > Added Fullbright
+
+Version 1.0.1 Released at 11:00PM GMT+7 5/4/26 DDMMYY
