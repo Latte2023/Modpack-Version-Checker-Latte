@@ -1,3 +1,4 @@
 > Added Worldedit
 > Removed Create: Songs and Speakers
 > Added Worldedit CUI
+> Added I am music player renewed
