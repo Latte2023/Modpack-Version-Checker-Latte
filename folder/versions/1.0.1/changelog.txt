@@ -1,1 +1,2 @@
 > Added Worldedit
+> Removed Create: Songs and Speakers
