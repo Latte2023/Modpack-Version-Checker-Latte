@@ -4,5 +4,6 @@
 > Added I am music player renewed
 > Added Additional Placements
 > Added Fullbright
+> Added PuzzlesLib
 
 Version 1.0.1 Released at 11:00AM GMT+7 5/4/26 DDMMYYY
