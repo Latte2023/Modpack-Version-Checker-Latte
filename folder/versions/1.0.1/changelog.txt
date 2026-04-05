@@ -3,3 +3,4 @@
 > Added Worldedit CUI
 > Added I am music player renewed
 > Added Additional Placements
+> Added Fullbright
