@@ -5,3 +5,4 @@
 > Added Cuffed
 > Added DragonLib
 > Added Lazr's Lib
+> Added Connectivity
