@@ -1,3 +1,4 @@
 Updated JR East E235 Series
 Added Create: Copycats+
 Added ManyIdeas Doors
+Added ManyIdeas Core
