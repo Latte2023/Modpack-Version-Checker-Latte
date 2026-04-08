@@ -2,3 +2,5 @@ Updated JR East E235 Series
 Added Create: Copycats+
 Added ManyIdeas Doors
 Added ManyIdeas Core
+
+Update 6.1.0 released at 7:00PM 8/4/26 GMT+7 (Thailand Time)
