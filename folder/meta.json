@@ -46,9 +46,18 @@
           "generic": "https://www.dropbox.com/scl/fo/3ckpw97rw003rfb6j90rz/AMEdcrG3zTNvqI3XxCunVZ8?rlkey=3d0v4qzao69d9gqj7xhrwumim&st=zclq8z8w&dl=0"
         }
       }
+    },
+    {
+      "id": "6.2.0",
+      "releasedAt":  1776949200000,
+      "promotions": {
+        "downloads": {
+          "generic": "https://www.dropbox.com/scl/fo/3ckpw97rw003rfb6j90rz/AMEdcrG3zTNvqI3XxCunVZ8?rlkey=3d0v4qzao69d9gqj7xhrwumim&st=zclq8z8w&dl=0"
+        }
+      }
     },
     {
-      "id": "6.1.1",
+      "id": "6.2.1",
       "releasedAt":  987654321098765,
       "promotions": {
         "downloads": {
@@ -57,7 +66,7 @@
       }
     },
     {
-      "id": "6.2.0",
+      "id": "6.3.0",
       "releasedAt":  987654321098765,
       "promotions": {
         "downloads": {
