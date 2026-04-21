@@ -3,3 +3,4 @@
 3. Updated JCM
 4. Updated MTR
 5. Updated Secret Rooms
+6. Updated Serene Seasons
