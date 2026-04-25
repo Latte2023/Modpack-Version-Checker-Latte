@@ -57,7 +57,7 @@
       }
     },
     {
-      "id": "6.2.0 hotfix 1",
+      "id": "6.2.1",
       "releasedAt":  1777102200000,
       "promotions": {
         "downloads": {
@@ -66,7 +66,7 @@
       }
     },
     {
-      "id": "6.2.1",
+      "id": "6.2.2",
       "releasedAt":  987654321098765,
       "promotions": {
         "downloads": {
