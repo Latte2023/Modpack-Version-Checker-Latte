@@ -1,3 +1,0 @@
-1. Fixed Resource Pack Override Code
-
-Update 6.2.0 hotfix 1 released at 2:30PM 25/4/26 GMT+7 (Thailand Time)
