@@ -1,1 +1,2 @@
 1. Added Minato Commuter Train MCT-N
+2. Added Not Enough Glyphs (Ticket No. 6)
