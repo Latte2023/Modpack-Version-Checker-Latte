@@ -1,2 +1,4 @@
 1. Added Minato Commuter Train MCT-N
 2. Added Not Enough Glyphs (Ticket No. 6)
+
+Update 6.2.2 released at 8:00PM 25/4/26 GMT+7 (Thailand Time)
