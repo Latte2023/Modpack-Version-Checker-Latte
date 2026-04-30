@@ -75,6 +75,15 @@
       }
     },
     {
+      "id": "6.2.3",
+      "releasedAt":  987654321098765,
+      "promotions": {
+        "downloads": {
+          "generic": "https://www.dropbox.com/scl/fo/3ckpw97rw003rfb6j90rz/AMEdcrG3zTNvqI3XxCunVZ8?rlkey=3d0v4qzao69d9gqj7xhrwumim&st=zclq8z8w&dl=0"
+        }
+      }
+    },    
+    {
       "id": "6.3.0",
       "releasedAt":  987654321098765,
       "promotions": {
