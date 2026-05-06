@@ -5,3 +5,4 @@
 5. Added Zelda: Hyrule Terrors (Ticket No.25)
 6. Added Create: Transmission! (Ticket No.26)
 7. Updated Latte's Resources
+8. Changed Minimap location to be on the topleft
