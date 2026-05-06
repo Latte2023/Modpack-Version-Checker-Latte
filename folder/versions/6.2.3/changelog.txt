@@ -1,1 +1,2 @@
 1. Updated World PIDS Pack
+2. Added Ars Trinkets (Ticket No.14)
