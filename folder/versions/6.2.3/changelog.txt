@@ -6,3 +6,5 @@
 6. Added Create: Transmission! (Ticket No.26)
 7. Updated Latte's Resources
 8. Changed Minimap location to be on the topleft
+
+Update 6.2.3 released at 8:00PM 7/5/26 GMT+7 (Thailand Time)
