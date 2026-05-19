@@ -1,1 +1,2 @@
-Added SaltyFish Vehicles
+Added SaltyFish Vehicles (Ticket No. 30)
+Updated Crash Assistant
