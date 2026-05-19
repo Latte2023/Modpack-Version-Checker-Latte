@@ -1,2 +1,3 @@
 Added SaltyFish Vehicles (Ticket No. 30)
 Updated Crash Assistant
+Removed Iron's Spells 'n Spellbooks (Ticket No. 40)
