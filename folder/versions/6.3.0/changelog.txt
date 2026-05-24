@@ -1,2 +1,3 @@
 Added [MTR] Shinkansen Infrastructure (Ticket No. 51)
 Added [MTR] 100 Series Shinkansen (Ticket No. 50)
+Added [MTR] 200 Series Shinkansen (Ticket No. 49)
