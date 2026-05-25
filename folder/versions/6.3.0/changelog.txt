@@ -1,10 +1,16 @@
-Added [MTR] Shinkansen Infrastructure (Ticket No. 51)
-Added [MTR] 100 Series Shinkansen (Ticket No. 50)
-Added [MTR] 200 Series Shinkansen (Ticket No. 49)
-Added [MTR] 300 Series Shinkansen (Ticket No. 48)
-Added [MTR] 700 Series Shinkansen (Ticket No. 47)
-Added [MTR] 0 Series Shinkansen (Ticket No. 46)
-Added [MTR] 500 Series Shinkansen (Ticket No. 45)
-Added Sinytra Connector (Ticket No. 52)
-Added Forgified Fabric API (Ticket No. 52)
-Added MTR:Japan-ticket-MOD (Ticket No. 53)
+-----Beta1-----
+
+1. Added [MTR] Shinkansen Infrastructure (Ticket No. 51)
+2. Added [MTR] 100 Series Shinkansen (Ticket No. 50)
+3. Added [MTR] 200 Series Shinkansen (Ticket No. 49)
+4. Added [MTR] 300 Series Shinkansen (Ticket No. 48)
+5. Added [MTR] 700 Series Shinkansen (Ticket No. 47)
+6. Added [MTR] 0 Series Shinkansen (Ticket No. 46)
+7. Added [MTR] 500 Series Shinkansen (Ticket No. 45)
+8. Added Sinytra Connector (Ticket No. 52)
+9. Added Forgified Fabric API (Ticket No. 52)
+10. Added MTR: Japan ticket MOD (Ticket No. 53)
+
+-----Beta2-----
+
+11. Updated MTR: Japan ticket MOD
