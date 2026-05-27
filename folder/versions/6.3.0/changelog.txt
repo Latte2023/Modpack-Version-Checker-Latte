@@ -14,3 +14,5 @@
 -----Beta2-----
 
 11. Updated MTR: Japan ticket MOD
+
+Update 6.3.0 released at 8:00PM 27/5/26 GMT+7 (Indochina Time)
