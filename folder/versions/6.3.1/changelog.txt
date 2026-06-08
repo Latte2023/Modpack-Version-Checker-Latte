@@ -3,3 +3,4 @@
 1. Updated Japan Ticket Mod
 -----Beta2-----
 2. Added UK Signs [MTR 3/4] (Ticket No. 54)
+3. Added [MTR4] Tokyo Metro 9000 (eidan 9000)
