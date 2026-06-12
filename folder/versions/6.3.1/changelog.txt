@@ -11,3 +11,7 @@
 -----Beta3-----
 
 5. Updated Japan Ticket Mod
+
+-----Beta4-----
+
+6. Added Trash Cans (Ticket No. 56)
