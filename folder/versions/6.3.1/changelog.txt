@@ -15,3 +15,5 @@
 -----Beta4-----
 
 6. Added Trash Cans (Ticket No. 56)
+7. Added Kaminsri Motor Works (Ticket No. 55)
+8. Added JR E235 Series (Ticket No. 57)
