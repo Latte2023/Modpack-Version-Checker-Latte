@@ -106,26 +106,45 @@
       "releasedAt":  1781564400000,
       "promotions": {
         "downloads": {
-          "generic": "https://www.dropbox.com/scl/fo/3ckpw97rw003rfb6j90rz/AMEdcrG3zTNvqI3XxCunVZ8?rlkey=3d0v4qzao69d9gqj7xhrwumim&st=zclq8z8w&dl=0"
+          "generic": "https://docs.google.com/document/d/1i-3XENGAd40nRn6Gp2-vFcz4xvUNcGdAokE60UEpc4o/edit?usp=sharing"
         }
       }
     },
     {
       "id": "6.4.0",
-      "releasedAt":   987654321098765,
+      "releasedAt":   1781737200000,
       "promotions": {
         "downloads": {
-          "generic": "https://www.dropbox.com/scl/fo/3ckpw97rw003rfb6j90rz/AMEdcrG3zTNvqI3XxCunVZ8?rlkey=3d0v4qzao69d9gqj7xhrwumim&st=zclq8z8w&dl=0"
+          "generic": "https://docs.google.com/document/d/1i-3XENGAd40nRn6Gp2-vFcz4xvUNcGdAokE60UEpc4o/edit?usp=sharing"
+        }
+      }
+    },
+    {
+      "id": "6.4.1",
+      "releasedAt":  1782169200000,
+      "promotions": {
+        "downloads": {
+          "generic": "https://docs.google.com/document/d/1i-3XENGAd40nRn6Gp2-vFcz4xvUNcGdAokE60UEpc4o/edit?usp=sharing"
+        }
+      }
+    },
+    {
+      "id": "6.4.2",
+      "releasedAt":  987654321098765,
+      "promotions": {
+        "downloads": {
+          "generic": "https://docs.google.com/document/d/1i-3XENGAd40nRn6Gp2-vFcz4xvUNcGdAokE60UEpc4o/edit?usp=sharing"
+        }
+      }
+    },
+    {
+      "id": "6.5.0",
+      "releasedAt":  987654321098765,
+      "promotions": {
+        "downloads": {
+          "generic": "https://docs.google.com/document/d/1i-3XENGAd40nRn6Gp2-vFcz4xvUNcGdAokE60UEpc4o/edit?usp=sharing"
         }
       }
     }
   ]
 }
-
-
-
-
-
-
-
-
