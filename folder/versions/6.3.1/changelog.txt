@@ -21,3 +21,4 @@
 -----Release-----
 
 9. Added Latte's Land Immigration Announcements (Ticket No. 63)
+10. Added Tobu 70000 Series (Ticket No. 64)
