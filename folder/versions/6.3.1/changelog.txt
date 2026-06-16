@@ -22,3 +22,5 @@
 
 9. Added Latte's Land Immigration Announcements (Ticket No. 63)
 10. Added Tobu 70000 Series (Ticket No. 64)
+
+Update 6.3.1 released at 6:00AM 16/6/26 GMT+7 (ICT)
