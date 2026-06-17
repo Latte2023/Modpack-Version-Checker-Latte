@@ -4,3 +4,5 @@ Updated YTE (Ticket No. 59)
 Updated MTR (Ticket No. 58)
 Updated JCM (Ticket No. 65)
 Updated MTR Japan Ticket Mod (Ticket No. 67)
+
+Update 6.4.0 released at 6:00AM 18/6/26 GMT+7 (ICT)
