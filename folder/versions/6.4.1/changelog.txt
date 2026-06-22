@@ -9,3 +9,4 @@
 4. Updated TACZ (Ticket No. 68)
 5. Added Tokyo Metro Ginza Line Train
 6. Added onewholibs (Ticket No. 61)
+7. Added Diamond Star Combat (Ticket No. 60)
