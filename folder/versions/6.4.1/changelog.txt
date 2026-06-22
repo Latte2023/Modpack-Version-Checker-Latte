@@ -3,3 +3,7 @@
 1. Added Taiwan Railway Corp.EMU3000 Pack
 2. Added TRTA/Tokyo Metro 05 Series
 3. Added InventoryHUD+
+
+-----Release-----
+
+4. Updated TACZ (Ticket No. 68)
