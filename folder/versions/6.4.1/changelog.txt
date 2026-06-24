@@ -11,3 +11,5 @@
 6. Added onewholibs (Ticket No. 61)
 7. Added Diamond Star Combat (Ticket No. 60)
 8. Updated Japan Ticket Mod
+
+Update 6.4.1 released at 6:00AM 23/6/26 GMT+7 (ICT)
