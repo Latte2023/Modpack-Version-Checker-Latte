@@ -10,3 +10,4 @@
 5. Added Tokyo Metro Ginza Line Train
 6. Added onewholibs (Ticket No. 61)
 7. Added Diamond Star Combat (Ticket No. 60)
+8. Updated Japan Ticket Mod
