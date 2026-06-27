@@ -3,3 +3,7 @@
 1. Added SG MRT PIDS V2 [MTR4]
 2. Firmware Update
 3. Added Singapore MRT PIDs
+
+-----Beta 2-----
+
+4. Added FangSu MTR Addon
