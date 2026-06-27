@@ -10,3 +10,4 @@
 5. Updated Japan Ticket Mod
 6. Updated JCM
 7. Updated MSD
+8. Updated Security Craft
