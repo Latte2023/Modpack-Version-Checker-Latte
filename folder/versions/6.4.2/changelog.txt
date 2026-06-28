@@ -21,3 +21,7 @@
 -----Beta 4-----
 
 12. Added more PIDS into Server Resourcepack
+
+-----Release-----
+
+13. Added Tokyo Metro 13000 Series
