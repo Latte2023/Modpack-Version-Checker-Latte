@@ -14,3 +14,4 @@
 
 -----Beta 3-----
 9. Added more PIDS into Server Resourcepack
+10. Added Windows PIDS
