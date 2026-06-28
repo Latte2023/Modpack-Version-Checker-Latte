@@ -11,3 +11,6 @@
 6. Updated JCM
 7. Updated MSD
 8. Updated Security Craft
+
+-----Beta 3-----
+9. Added more PIDS into Server Resourcepack
