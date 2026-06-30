@@ -30,3 +30,4 @@
 -----Release-----
 
 15. Fixed Journeymap Death Point spawning
+16. Updated Security Craft
