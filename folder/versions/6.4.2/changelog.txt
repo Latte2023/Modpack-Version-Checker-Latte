@@ -32,4 +32,4 @@
 15. Fixed Journeymap Death Point spawning
 16. Updated Security Craft
 
-Update 6.4.3 released at 6:00AM 1/7/26 GMT+7 (ICT)
+Update 6.4.2 released at 6:00AM 1/7/26 GMT+7 (ICT)
