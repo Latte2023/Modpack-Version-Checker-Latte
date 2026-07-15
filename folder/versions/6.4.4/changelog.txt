@@ -3,3 +3,4 @@
 1. Added Beijing Subway Addon
 2. Added Seibu 30000 Series
 3. Added Rail Structure Pack
+4. Added Osaka Metro 21 Series
