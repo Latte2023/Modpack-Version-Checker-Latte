@@ -22,3 +22,5 @@
 1. Updated TJMetro
 2. Updated MTR Japan Ticket Mod
 3. Added IFS
+
+Update 6.4.3 released at 6:00AM 10/7/26 GMT+7 (ICT)
