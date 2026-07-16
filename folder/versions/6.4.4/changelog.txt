@@ -6,3 +6,4 @@
 4. Added Osaka Metro 21 Series
 5. Added Curved Platform
 6. Added WorldEdit CUI
+7. Made Leaves See-Through
