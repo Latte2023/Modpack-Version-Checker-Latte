@@ -7,3 +7,7 @@
 5. Added Curved Platform
 6. Added WorldEdit CUI
 7. Made Leaves See-Through
+
+-----Beta2-----
+
+1. Added supermarket melodies
